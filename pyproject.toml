@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "mercatorioqol"
+version = "0.1.0"
+description = "QoL features for Mercatorio.io"
+authors = ["Garrett Griffin-Morales <grgisme@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-dotenv = "^1.0.1"
+pymerc = {git = "https://github.com/garrett-griffin/pymerc.git", rev = "master"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

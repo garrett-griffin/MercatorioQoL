@@ -1,0 +1,566 @@
+{
+    "run_first_only": false,
+    "players": {
+        "nutrition": {
+            "active": true,
+            "items": {
+                "Beer": {
+                    "min_stock": 400,
+                    "sell_extras": false
+                },
+                "Bread": {
+                    "min_stock": 700,
+                    "sell_extras": false
+                },
+                "Butter": {
+                    "min_stock": 69,
+                    "sell_extras": false
+                },
+                "Candles": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Carting": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Casks": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Cattle": {
+                    "min_stock": 7,
+                    "sell_extras": false
+                },
+                "Charcoal": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Cheese": {
+                    "min_stock": 144,
+                    "sell_extras": false
+                },
+                "Cloth": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Cookware": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "CuredFish": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "CuredMeat": {
+                    "min_stock": 25,
+                    "sell_extras": false
+                },
+                "Firewood": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Flour": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Furniture": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Garments": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Glassware": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Grain": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Ham": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Harnesses": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Honey": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Jewellery": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Labour": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Limestone": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Manure": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Meat": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Milk": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Money": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Nails": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "OxPower": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Pies": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Ploughs": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Salt": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Stockfish": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Tar": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Thread": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Timber": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Tools": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Wheels": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "WroughtIron": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                }
+            }
+        },
+        "forging": {
+            "active": true,
+            "items": {
+                "Arms": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Beer": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Bread": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Bricks": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Carting": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Charcoal": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Cheese": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "CuredMeat": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Firewood": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Fish": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Furniture": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Garments": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "IronOre": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Labour": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Money": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Resin": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Salt": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Tar": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Tools": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Wool": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                }
+            }
+        },
+        "crafter": {
+            "active": true,
+            "items": {
+                "Beer": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Bread": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Candles": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Carting": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Casks": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Charcoal": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Cheese": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Cloth": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Cookware": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "CopperIngots": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "CopperOre": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "CuredMeat": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "DyedCloth": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Firewood": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Flour": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Furniture": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Garments": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Labour": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Limestone": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Lumber": {
+                    "min_stock": 180,
+                    "sell_extras": false
+                },
+                "Money": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Nails": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "OxPower": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Pies": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Ploughs": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Salt": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Timber": {
+                    "min_stock": 100,
+                    "sell_extras": false
+                },
+                "Tools": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Wax": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Wheels": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Wool": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "WroughtIron": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                }
+            }
+        },
+        "maritime": {
+            "active": true,
+            "items": {
+                "Beer": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Bread": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Bricks": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Carting": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Casks": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Charcoal": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Cheese": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Cookware": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "CuredFish": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "CuredMeat": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Firewood": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Fish": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Flour": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Furniture": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Garments": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Glassware": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Labour": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Limestone": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Money": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Nets": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Pies": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Resin": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Stockfish": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Thread": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Tools": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                }
+            }
+        },
+        "weaponry": {
+            "active": true,
+            "items": {
+                "Arms": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Beer": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Bread": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Carting": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Firewood": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Fish": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Flour": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Furniture": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Labour": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Limestone": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Lodging": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Meat": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Money": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Protection": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Wheels": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                },
+                "Wool": {
+                    "min_stock": 0,
+                    "sell_extras": false
+                }
+            }
+        }
+    }
+}

@@ -20,7 +20,7 @@ import asyncio
 from dotenv import load_dotenv
 
 from utils import load_settings, load_clients  # Import the functions from utils.py
-from balance import balance_labour  # Import the functions from balance.py
+from balance import balance_labour, balance_carting, balance_ox_power  # Import the functions from balance.py
 
 # Load the API_USER, API_TOKEN, and API_NICKNAMES from the environment
 load_dotenv()
@@ -42,6 +42,8 @@ async def main():
             player = await client.player()
             print(f"Handling - {player.data.household.name} ({nickname})...")
             await balance_labour(player)
+            await balance_carting(player)
+            await balance_ox_power(player)
         except Exception as e:
             print(f"Error handling client {client}: {e}")
             continue

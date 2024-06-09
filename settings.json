@@ -5,15 +5,15 @@
             "active": true,
             "items": {
                 "Beer": {
-                    "min_stock": 400,
+                    "min_stock": 0,
                     "sell_extras": false
                 },
                 "Bread": {
-                    "min_stock": 700,
+                    "min_stock": 0,
                     "sell_extras": false
                 },
                 "Butter": {
-                    "min_stock": 69,
+                    "min_stock": 0,
                     "sell_extras": false
                 },
                 "Candles": {
@@ -29,7 +29,7 @@
                     "sell_extras": false
                 },
                 "Cattle": {
-                    "min_stock": 7,
+                    "min_stock": 0,
                     "sell_extras": false
                 },
                 "Charcoal": {
@@ -37,7 +37,7 @@
                     "sell_extras": false
                 },
                 "Cheese": {
-                    "min_stock": 144,
+                    "min_stock": 0,
                     "sell_extras": false
                 },
                 "Cloth": {
@@ -53,7 +53,7 @@
                     "sell_extras": false
                 },
                 "CuredMeat": {
-                    "min_stock": 25,
+                    "min_stock": 0,
                     "sell_extras": false
                 },
                 "Firewood": {
@@ -335,7 +335,7 @@
                     "sell_extras": false
                 },
                 "Lumber": {
-                    "min_stock": 180,
+                    "min_stock": 230,
                     "sell_extras": false
                 },
                 "Money": {
@@ -363,7 +363,7 @@
                     "sell_extras": false
                 },
                 "Timber": {
-                    "min_stock": 100,
+                    "min_stock": 250,
                     "sell_extras": false
                 },
                 "Tools": {

@@ -1,0 +1,24 @@
+{
+    "run_first_only": true,
+    "players": {
+        "PreciosaWalmyr": {
+            "active": true,
+            "items": {
+                "rope": {
+                    "min_stock": 100,
+                    "sell_extras": true
+                },
+                "nets": {
+                    "min_stock": 50,
+                    "sell_extras": true
+                }
+            }
+        }
+    },
+    "production_chains": {
+        "rope": [200500278007000, 202400276],
+        "nets": [200500279002005, 202800284],
+        "cured fish": [200700283],
+        "stockfish": [201800286]
+    }
+}
